@@ -1,5 +1,5 @@
 function App() {
-  return <div>hello github</div>;
+  return <div>weather-App test</div>;
 }
 
 export default App;
