@@ -1,5 +1,6 @@
 function App() {
-  return <div>weather-App test</div>;
+  return <div>weather app using API
+    </div>;
 }
 
 export default App;
