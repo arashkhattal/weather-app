@@ -1,5 +1,5 @@
 function App() {
-  return <div>weather app using API
+  return <div>Weather App
     </div>;
 }
 
