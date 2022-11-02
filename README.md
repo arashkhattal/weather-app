@@ -1,6 +1,6 @@
 # React Weather App🌤🌤
 
-This is a sample react weather app.
+This is a sample react weather app using open weather API
 
 ## Instructions
 
