@@ -1,5 +1,5 @@
 function App() {
-  return <div>Weather App usin open weather api
+  return <div>Weather App
     </div>;
 }
 
